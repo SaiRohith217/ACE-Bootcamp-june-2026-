@@ -1,0 +1,6 @@
+r=(30,40,70,20,100)
+print(r)
+count=r.count(20)
+print(count)
+index=r.index(70)
+print(index)
